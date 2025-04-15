@@ -1,9 +1,9 @@
 # Blockchain-task-2025
 Welcome to the Student Assignment Repository! This repository contains 23 Solidity files named Question_1.sol to Question_23.sol. Each file corresponds to a specific question that students are required to answer.
 # Instructions
-**Clone the Repository:** Students should clone this repository to their local machine.
-**Answer Your Assigned Question:** Each student will be assigned a specific question. Locate the corresponding .sol file and implement your solution within that file.
-**Commit and Push:** After completing your solution, commit your changes and push them back to the repository.
+ Markup : * **Clone the Repository:** Students should clone this repository to their local machine.
+          * **Answer Your Assigned Question:** Each student will be assigned a specific question. Locate the corresponding .sol file and implement your solution within that file.
+          * **Commit and Push:** After completing your solution, commit your changes and push them back to the repository.
 # File Structure
 Question_1.sol
 Question_2.sol
