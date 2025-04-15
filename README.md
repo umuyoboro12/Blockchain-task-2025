@@ -10,8 +10,8 @@ Welcome to the Student Assignment Repository! This repository contains 23 Solidi
 * ...
 * Question_23.sol
 # Contribution Guidelines
-Ensure your code is well-documented and follows the provided coding standards.
-Make sure to include **clear comments** on each line/block of code to aid other learners' understanding.
-Only modify the file corresponding to your assigned question.
-Commit messages should be clear and descriptive.
+* Ensure your code is well-documented and follows the provided coding standards.
+* Make sure to include **clear comments** on each line/block of code to aid other learners' understanding.
+* Only modify the file corresponding to your assigned question.
+* Commit messages should be clear and descriptive.
 
