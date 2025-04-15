@@ -5,10 +5,10 @@ Welcome to the Student Assignment Repository! This repository contains 23 Solidi
  * **Answer Your Assigned Question:** Each student will be assigned a specific question. Locate the corresponding .sol file and implement your solution within that file.
  * **Commit and Push:** After completing your solution, commit your changes and push them back to the repository.
 # File Structure
-Question_1.sol
-Question_2.sol
-...
-Question_23.sol
+* Question_1.sol
+* Question_2.sol
+* ...
+* Question_23.sol
 # Contribution Guidelines
 Ensure your code is well-documented and follows the provided coding standards.
 Make sure to include **clear comments** on each line/block of code to aid other learners' understanding.
