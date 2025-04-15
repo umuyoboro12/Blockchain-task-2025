@@ -14,3 +14,9 @@ Ensure your code is well-documented and follows the provided coding standards.
 Make sure to include **clear comments** on each line/block of code to aid other learners' understanding.
 Only modify the file corresponding to your assigned question.
 Commit messages should be clear and descriptive.
+## Technologies
+***
+A list of technologies used within the project:
+* [Technology name](https://example.com): Version 12.3 
+* [Technology name](https://example.com): Version 2.34
+* [Library name](https://example.com): Version 1234
