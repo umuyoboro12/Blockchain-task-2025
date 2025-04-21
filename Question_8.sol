@@ -14,7 +14,7 @@ import "@openzeppelin/contracts/security/ReentrancyGuard.sol";
  * Key Features:
  * - Listing NFTs with specified prices
  * - Secure purchase with automatic commission and royalty split
- * - Events emitted for listing, purchase, and sale
+ * - Events emitted for listing, purchase, and sales
  */
 contract NFTMarketplace is ReentrancyGuard {
     struct Listing {
