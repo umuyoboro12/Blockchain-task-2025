@@ -2,6 +2,7 @@
 pragma solidity ^0.8.18;
 
 /**
+*New Branch
  * Contract Name: Lottery
  *
  * 1. Contract Purpose:
