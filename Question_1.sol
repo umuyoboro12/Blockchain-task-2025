@@ -110,7 +110,7 @@ contract RockPaperScissors {
         }
     }
 }
-
+// Group member comment following below
 // 1. Add an option for all players to play simultaneously. 
 //2. Allow the admin to view detailed game information. 
 //3. Ensure that each player receives the game results after the match.
