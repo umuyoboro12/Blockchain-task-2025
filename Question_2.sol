@@ -2,6 +2,7 @@
 pragma solidity ^0.8.0;
 
 /**
+*New
  * @title UserProfile
  * @notice This smart contract is designed to manage user profile information on the blockchain.
  * It allows each user (identified by their wallet address) to create, update, retrieve, hash, or delete their own profile.
