@@ -5,7 +5,7 @@ contract HelloWorld {
     // State variable to store the greeting message
     string public greeting;
 
-    // Event to emit when the greeting is updated
+    // Event to emit when the greeting is updated always
     event GreetingUpdated(string oldGreeting, string newGreeting, address updatedBy);
 
     // Constructor to set the initial greeting message
