@@ -2,8 +2,8 @@
 pragma solidity ^0.8.18;
 
 /*
+New Branch
 Contract Name: DecentralizedIdentity
-
 1. Contract Purpose:
    The DecentralizedIdentity contract enables users to store and manage verifiable credentials (represented as document hashes) on-chain. These credentials can be signed by trusted issuers such as government agencies or institutions, ensuring authenticity and preventing tampering. Issuers can also revoke credentials if needed.
 
