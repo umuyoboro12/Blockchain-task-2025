@@ -3,7 +3,7 @@ pragma solidity ^0.8.18;
 
 /**
  * @title Upgradeable Proxy Contract
- * 
+ * New
  * @notice 
  * 1. Contract Purpose:
  *    The UpgradeableProxy contract is designed to enable the deployment of upgradeable smart contracts.
